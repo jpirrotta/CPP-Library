@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "exception": "cpp",
+        "istream": "cpp",
+        "memory": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "xiosbase": "cpp",
+        "xutility": "cpp",
+        "iosfwd": "cpp"
+    }
+}
